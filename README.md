@@ -20,8 +20,8 @@
 <table>
   <tr>
     <td align="center"><img src="docs/screenshots/home.png" width="230" alt="صفحه اول"><br><sub>انتخاب منو</sub></td>
-    <td align="center"><img src="docs/screenshots/menu-dark.png" width="230" alt="تم تاریک"><br><sub>تم تاریک</sub></td>
-    <td align="center"><img src="docs/screenshots/menu-light.png" width="230" alt="تم روشن"><br><sub>تم روشن</sub></td>
+    <td align="center"><img src="docs/screenshots/light-res.png" width="230" alt="تم روشن رستوران"><br><sub>تم تاریک رستوران</sub></td>
+    <td align="center"><img src="docs/screenshots/menu-light.png" width="230" alt="تم روشن کافه"><br><sub>تم روشن کافه</sub></td>
   </tr>
 </table>
 
