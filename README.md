@@ -25,10 +25,7 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="docs/screenshots/desktop.png" width="720" alt="نمایش روی لپ‌تاپ"><br>
-  <sub>نمایش واکنش‌گرا روی لپ‌تاپ</sub>
-</p>
+
 
 ## چرا این پروژه؟
 
