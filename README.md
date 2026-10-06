@@ -110,18 +110,6 @@ python manage.py fetch_images
 
 `cafe` و `restaurant` همان «آدرس (انگلیسی)» هر منو در ادمین است. QR با همان دامنه‌ای ساخته می‌شود که با آن باز کرده‌اید، پس برای چاپ نهایی آن را روی دامنه اصلی بسازید.
 
-## مدل داده
-
-```mermaid
-erDiagram
-    Menu ||--o{ Category : has
-    Category ||--o{ Item : has
-    Menu { string title string slug string icon }
-    Category { string title string icon int order }
-    Item { string name text description int price image image bool is_available }
-```
-
-قیمت‌ها به «هزار تومان» ذخیره می‌شوند.
 
 ## ساختار پروژه
 
