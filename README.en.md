@@ -23,10 +23,6 @@ A mobile-first digital menu built with **Django**. Guests scan the QR code on th
   </tr>
 </table>
 
-<p align="center">
-  <img src="docs/screenshots/desktop.png" width="720" alt="Desktop layout"><br>
-  <sub>Responsive layout on a laptop</sub>
-</p>
 
 ## Why this project
 
@@ -83,11 +79,6 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-- Site: http://127.0.0.1:8000/
-- Admin: http://127.0.0.1:8000/admin/
-
-**Testing on a phone:** run `python manage.py runserver 0.0.0.0:8000`, connect the phone and computer to the same Wi-Fi, and open `http://YOUR-COMPUTER-IP:8000` on the phone.
-
 ## Item photos
 
 Upload a photo per item from the admin (Items section). Without a photo, the category emoji is shown.
@@ -114,19 +105,6 @@ Set `IMAGE_STYLE` to add one consistent style to every search (e.g. `export IMAG
 ```
 
 `cafe` and `restaurant` are each menu's slug in the admin. The QR encodes the host you opened it with, so generate the final one on your real domain before printing.
-
-## Data model
-
-```mermaid
-erDiagram
-    Menu ||--o{ Category : has
-    Category ||--o{ Item : has
-    Menu { string title string slug string icon }
-    Category { string title string icon int order }
-    Item { string name text description int price image image bool is_available }
-```
-
-Prices are stored in thousands of tomans.
 
 ## Project structure
 
@@ -193,6 +171,6 @@ Released under the MIT License. See [LICENSE](LICENSE).
 
 ## Author
 
-**Amir Mohammad Omranpour Bandpey**, web designer and developer (Django, JavaScript, HTML, CSS)
+**Amir Mohammad Omranpour**, web designer and developer (Django, JavaScript, HTML, CSS)
 
 <!-- Add your GitHub, LinkedIn or email link here -->
