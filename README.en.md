@@ -17,9 +17,17 @@ A mobile-first digital menu built with **Django**. Guests scan the QR code on th
 
 <table>
   <tr>
-    <td align="center"><img src="docs/screenshots/home.png" width="230" alt="Menu chooser"><br><sub>Menu chooser</sub></td>
-    <td align="center"><img src="docs/screenshots/menu-dark.png" width="230" alt="Dark theme"><br><sub>Dark theme</sub></td>
-    <td align="center"><img src="docs/screenshots/menu-light.png" width="230" alt="Light theme"><br><sub>Light theme</sub></td>
+    <td align="center"><img src="docs/screenshots/light-en-home.png" width="230" alt="Menu chooser"><br><sub>Menu chooser</sub></td>
+    <td align="center"><img src="docs/screenshots/light-en-res.png" width="230" alt="Dark theme"><br><sub>Dark theme</sub></td>
+    <td align="center"><img src="docs/screenshots/light-en-cof.png" width="230" alt="Light theme"><br><sub>Light theme</sub></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/dark-en-home.png" width="230" alt="Menu chooser"><br><sub>Menu chooser</sub></td>
+    <td align="center"><img src="docs/screenshots/dark-en-res.png" width="230" alt="Dark theme"><br><sub>Dark theme</sub></td>
+    <td align="center"><img src="docs/screenshots/dark-en-cof.png" width="230" alt="Light theme"><br><sub>Light theme</sub></td>
   </tr>
 </table>
 
