@@ -25,6 +25,14 @@
   </tr>
 </table>
 
+ <table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/dark-fa-ho.png" width="230" alt="صفحه اول"><br><sub>انتخاب منو</sub></td>
+    <td align="center"><img src="docs/screenshots/dark-fa-res.png" width="230" alt="تم تاریک رستوران"><br><sub>تم تاریک رستوران</sub></td>
+    <td align="center"><img src="docs/screenshots/dark-fa-cof.png" width="230" alt="تم تاریک کافه"><br><sub>تم تاریک کافه</sub></td>
+  </tr>
+</table>
+
 
 
 ## چرا این پروژه؟
