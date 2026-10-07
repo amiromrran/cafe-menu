@@ -173,10 +173,6 @@ python manage.py collectstatic
 - تست خودکار و GitHub Actions
 - Docker برای اجرای ساده‌تر
 
-## منابع
-
-- فونت [Vazirmatn](https://github.com/rastikerdar/vazirmatn) با مجوز OFL
-- عکس‌های نمونه (در صورت استفاده از `fetch_images`) از [Pexels](https://www.pexels.com) یا Flickr؛ مالکیت هر عکس با صاحب آن است.
 
 ## مجوز
 
